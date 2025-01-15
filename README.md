@@ -14,4 +14,4 @@ Copy `script.js` to the text editor.  In `Node.js command prompt` enter the comm
 
 ### Acknowledgements
 
-- [FreeCodeCamp](https:/www.freecodecamp.org)
+- [FreeCodeCamp](https://www.freecodecamp.org)
